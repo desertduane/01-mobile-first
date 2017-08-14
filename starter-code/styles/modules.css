@@ -12,7 +12,9 @@
 .icon-menu{
   position:absolute;
   right: 5px;
+  font-size: 30px;
 }
+
 .main-nav {
   padding: 0.1em;
 }
@@ -64,6 +66,7 @@
     border-bottom: 0px;
   }
 }
+
 
 
 /* TODO: Now add styles for how things should look on a larger screen:
