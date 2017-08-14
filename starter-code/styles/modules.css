@@ -12,7 +12,9 @@
 .icon-menu{
   position:absolute;
   right: 5px;
+  font-size: 30px;
 }
+
 .main-nav {
   padding: 0.1em;
 }
